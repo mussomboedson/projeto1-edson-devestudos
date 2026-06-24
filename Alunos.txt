@@ -1,4 +1,4 @@
-// PROJETO 1 — SISTEMA DE ALUNOS
+// PROJETO 1 — SISTEMA DE ALUNOS (o objetivo é estudar sobre class, atributos,encapsulamento,construtor,métodos, objectos e listas)
 
 class Aluno
 {
