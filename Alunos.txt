@@ -1,5 +1,5 @@
 // PROJETO 1 — SISTEMA DE ALUNOS (o objetivo é estudar sobre class, atributos,encapsulamento,construtor,métodos, objectos e listas)
-// elaborado por um estudante do curso básico de programação.
+// elaborado por um estudante do curso básico de programação c#.
 
 class Aluno
 {
